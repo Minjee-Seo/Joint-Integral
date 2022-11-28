@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+}
+
+html {
+  display:table;
+  margin:auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-block: var(--padding-lg);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #ffffff;
+}
+
+caption {
+  text-align: start;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
