@@ -14,3 +14,4 @@
   
 ## Design solutions
 - Pretrained lightweight-openpose 모델 파인튜닝을 통해 팔 관절 keypoint를 추론
+- Flask 기반 어플리케이션을 통해 영상 업로드 및 실시간 추론, 진단결과 저장할 수 있도록 함
